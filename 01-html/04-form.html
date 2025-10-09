@@ -8,10 +8,14 @@
   </head>
   <body>
     <main>
-      <form action="/submit">
-        <!-- Add your code here -->
-        <!-- Written by Serena Glick / sgpdx / sglick@pdx.edu  -->
-        <h1>Form</h1>
+      <!-- <form action="/submit"> -->
+      <!-- Add your code here -->
+      <!-- Written by Serena Glick / sgpdx / sglick@pdx.edu  -->
+      <form
+        action="https://formsubmit.co/3ec80b716f7f222d5291f56d9c682169"
+        method="POST"
+      >
+        <h1>Spongebob Survey</h1>
         <div>
           <label for="fullname">Name: </label>
           <input
@@ -32,38 +36,72 @@
         <br />
         <fieldset>
           <legend>Favorite Character:</legend>
-          <input type="radio" name="character" id="spongebob" />
+          <input
+            type="radio"
+            name="character"
+            id="spongebob"
+            value="spongebob"
+          />
           <label for="spongebob">Spongebob</label>
           <br />
-          <input type="radio" name="character" id="sandy" />
+          <input type="radio" name="character" id="sandy" value="sandy" />
           <label for="sandy">Sandy</label>
           <br />
-          <input type="radio" name="character" id="patrick" />
+          <input type="radio" name="character" id="patrick" value="patrick" />
           <label for="patrick">Patrick</label>
           <br />
-          <input type="radio" name="character" id="mrkrabs" />
+          <input type="radio" name="character" id="mrkrabs" value="mrkrabs" />
           <label for="mrkrabs">Mr. Krabs</label>
         </fieldset>
         <br />
         <fieldset>
           <legend>Are you a fan of the show?</legend>
-          <input type="checkbox" name="fan" id="yesall" />
+          <input
+            type="checkbox"
+            name="fan"
+            id="yesall"
+            value="yes watched all"
+          />
           <label for="yesall">Yes, I have watched all the episodes!</label>
           <br />
-          <input type="checkbox" name="fan" id="yesmemes" />
+          <input type="checkbox" name="fan" id="yesmemes" value="best memes" />
           <label for="yesmemes">Yes, it's got the best memes</label>
           <br />
-          <input type="checkbox" name="fan" id="yeskid" />
+          <input
+            type="checkbox"
+            name="fan"
+            id="yeskid"
+            value="my kid likes it"
+          />
           <label for="yeskid">Yes, I'm a fan because my kid likes it</label>
+          <br />
+          <input
+            type="checkbox"
+            name="fan"
+            id="yescultural"
+            value="cultural icon"
+          />
+          <label for="yescultural">Yes, it's a cultural icon</label>
         </fieldset>
         <br />
         <fieldset>
-          <legend>Favorite Meme:</legend>
+          <legend>Feedback Time!</legend>
+          <label for="meme">Your Favorite Meme:</label>
           <input
             type="text"
+            style="width: 500px"
             name="meme"
             id="meme"
-            placeholder="Share your favorite meme!"
+            placeholder="Share your favorite meme here"
+          />
+          <br />
+          <label for="episode">Your Favorite Episode:</label>
+          <input
+            type="text"
+            style="width: 500px"
+            name="episode"
+            id="episode"
+            placeholder="Your favorite episode and why you like it"
           />
         </fieldset>
         <br />
