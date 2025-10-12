@@ -25,6 +25,15 @@
 
 Enter your reflections on this section here.
 
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+  - ANSWER HERE
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+  - ANSWER HERE
+- Was there something that you wish had been explained better?
+  - ANSWER HERE
+- Were there other exercises that might have helped you learn this week’s topic a little better?
+  - ANSWER HERE
+
 ### CSS
 
 Enter your reflections on this section here.
