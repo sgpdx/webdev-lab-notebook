@@ -26,13 +26,13 @@
 Enter your reflections on this section here.
 
 - Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
-  - ANSWER HERE
+  - I have been learning a lot by watching the videos, taking notes, and then doing my best to complete the exercise from memory, based on my notes. I did not need to go back to reference the video after watching it.
 - How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
-  - ANSWER HERE
+  - I found this exercise pretty similar to the "Form" exercise in 01-html, because we also had to run the WAVE audit then, and fix the labeling issues.
 - Was there something that you wish had been explained better?
-  - ANSWER HERE
+  - I believe the videos and instructions were clear for this week
 - Were there other exercises that might have helped you learn this week’s topic a little better?
-  - ANSWER HERE
+  - I would have liked to try something with background images and text color and placement, like how in the one video it showed how text can have good contrast on one part of the image but bad contrast on another. It would have been interesting to do more hands-on work with contrast errors.
 
 ### CSS
 
