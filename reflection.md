@@ -36,7 +36,14 @@ Enter your reflections on this section here.
 
 ### CSS
 
-Enter your reflections on this section here.
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+- I watched the lecture videos, took notes, then watched the videos and took notes, and then completed the exercises. I did however tend to update portions of my code in between watching the 06 video since it required a lot of specification, and some design choices made earlier on were changed (ie: pixel size) or deleted or modified in some way, so it was hard to keep up with what I needed to do just using notes alone.
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+- I really liked the last exercise 06 that dealt with the different screen sizes, and learning about how it should be default that a dev builds towards a cell phone, and then makes adjustments from there. It was fun using the dev tools screen sizing tool to see the differences in action.
+- Was there something that you wish had been explained better?
+  - There were parts of 06 that were a bit confusing to me such as when to use <ul> by itself or when to use <ul li> and then some style. I understand that the more specific the elements are included the more specific the style, ie: for <ul> it would be applied to ALL uls but you can get more specific from there. I would have liked to see an example where this attention to detail made a difference.
+- Were there other exercises that might have helped you learn this week’s topic a little better?
+  - Overall I think this was a pretty fun introduction to CSS. Looking forward to learning more next week.
 
 ### Flexbox
 
@@ -61,3 +68,10 @@ Enter your reflections on this section here.
 ### Node.js
 
 Enter your reflections on this section here.
+
+### TEMPLATE
+
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+- Was there something that you wish had been explained better?
+- Were there other exercises that might have helped you learn this week’s topic a little better?
