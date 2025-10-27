@@ -4,13 +4,16 @@ Prior to turning in your assignment, complete the following checklist in regards
 
 #### Accessibility Code Check
 
-- [ ] Use the Wave AIM browser extension to run an accessibility audit on your completed solutions.
+- [x] Use the Wave AIM browser extension to run an accessibility audit on your completed solutions.
+  - No errors
+  - 1 Alert which I fixed; it says there was no level 1 heading so I added a title to the page.
 
 #### Formatted Code Check
 
-- [ ] Use Prettier to properly format your HTML code.
-- [ ] Use Prettier to properly format your CSS code.
-- [ ] Use Prettier to properly format your JavaScript code.
+- [x] Use Prettier to properly format your HTML code.
+- [x] Use Prettier to properly format your CSS code.
+- [x] Use Prettier to properly format your JavaScript code.
+  - N/A
 
 #### How to update this markdown document?
 
