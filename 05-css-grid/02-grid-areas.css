@@ -6,19 +6,63 @@
   grid-area: article;
 }
 
+.section {
+  grid-area: section;
+}
+
+.aside {
+  grid-area: aside;
+}
+
+.footer {
+  grid-area: footer;
+}
+
 .grid-container {
   display: grid;
   height: 97vh;
   grid-template-columns: 1fr;
   grid-template-rows: repeat(8, 1fr);
   gap: 10px;
+  /* text-align: left; */
   grid-template-areas:
-    'header'
-    'article'
-    'article'
-    'section'
-    'section'
-    'section'
-    'aside'
-    'footer';
+    "header"
+    "article"
+    "article"
+    "article"
+    "section"
+    "section"
+    "section"
+    "aside"
+    "footer";
+}
+
+@media (min-width: 576px) and (max-width: 992px) {
+  .grid-container {
+    display: grid;
+    height: 97vh;
+    gap: 10px;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr 5fr 3fr 1fr;
+    grid-template-areas:
+      "header header"
+      "article aside"
+      "section section"
+      "footer footer";
+  }
+}
+
+@media (min-width: 993px) {
+  .grid-container {
+    display: grid;
+    height: 97vh;
+    gap: 10px;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 1fr 5fr 3fr 1fr;
+    grid-template-areas:
+      "header header"
+      "aside article"
+      "section section"
+      "footer footer";
+  }
 }

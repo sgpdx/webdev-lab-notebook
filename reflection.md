@@ -58,7 +58,14 @@ Enter your reflections on this section here.
 
 ### CSS Grid
 
-Enter your reflections on this section here.
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+  - I watched the videos but at times went ahead of the videos since it was fun to try and figure out how to make the layout match the images on my own
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+  - These exercises were fun and useful. I'm looking forward to playing around with them more during my Final Project.
+- Was there something that you wish had been explained better?
+  - No, all is good here.
+- Were there other exercises that might have helped you learn this week’s topic a little better?
+  - No, good intro to this topic.
 
 ### Bootstrap
 
