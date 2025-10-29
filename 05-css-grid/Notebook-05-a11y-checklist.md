@@ -4,7 +4,8 @@ Prior to turning in your assignment, complete the following checklist in regards
 
 #### Accessibility Code Check
 
-- [ ] Use the Wave AIM browser extension to run an accessibility audit on your completed solutions.
+- [x] Use the Wave AIM browser extension to run an accessibility audit on your completed solutions.
+  - Addressed a warning; added h1 heading to 01-grid.html
 
 #### Formatted Code Check
 
