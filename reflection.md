@@ -69,7 +69,14 @@ Enter your reflections on this section here.
 
 ### Bootstrap
 
-Enter your reflections on this section here.
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+  - I found the bootstrap documentation incredibly clear and helpful. No surprise that it was stylized in a way that's inviting and easy to read and use. I was able to solve most of the exercises with just the documentation, though the videos were helpful in explaining how to add in margins or centering text.
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+  - I really enjoyed this bootstrap section and look forward to being able to more freely play around with it for the final project.
+- Was there something that you wish had been explained better?
+  - No, this was a good set of exercises.
+- Were there other exercises that might have helped you learn this week’s topic a little better?
+  - No complaints here.
 
 ### JavaScript
 
