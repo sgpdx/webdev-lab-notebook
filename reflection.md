@@ -80,7 +80,14 @@ Enter your reflections on this section here.
 
 ### JavaScript
 
-Enter your reflections on this section here.
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+  - I found that Exercises 01 and 02 were easy enough to do with just the linked documentation, but exercises 03 and 04 I felt a bit more confused about and so the videos were very helpful.
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+  - I liked exercise 04 to learn more about event handlers.
+- Was there something that you wish had been explained better?
+  - I didn't understand the instructions of 03 very well, but the video walked me through what was expected so it was fine in the end.
+- Were there other exercises that might have helped you learn this week’s topic a little better?
+  - Maybe more exercises like 04 where the javascript is linked to an HTML page would have been helpful. The pure javascript exercises are fun but don't seem as helpful to learning interactivity with webpages.
 
 ### jQuery
 
