@@ -91,7 +91,14 @@ Enter your reflections on this section here.
 
 ### jQuery
 
-Enter your reflections on this section here.
+- Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+  - I found jQuery a little bit tricky with the syntax with the $ and all the ( ) needed that I found I needed the videos as a guide for exercise 02 especially.
+- How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+  - I personally would have preferred writing jQuery code for a new, but similar exercise, instead of having to rewrite a previous exercise that we did successfully. I think that confused me more than helped me.
+- Was there something that you wish had been explained better?
+  - I think jQuery was explained fine. I wondered if it was still a popular library since the videos are from 2020 or 2021 but it does look like having knowledge of jQuery is still important.
+- Were there other exercises that might have helped you learn this week’s topic a little better?
+  - As stated above, I would have rather we had a different HTML exercise with a different API rather than the same ones we worked with in the 07-javascript section. Maybe using the starwars API (SWAPI) like in the lecture videos would have been interesting.
 
 ### Node.js
 

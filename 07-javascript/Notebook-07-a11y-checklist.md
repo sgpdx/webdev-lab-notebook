@@ -13,6 +13,7 @@ Prior to turning in your assignment, complete the following checklist in regards
     - I changed it to the slightly more descriptive "loading image that rotates" and the WAVE warning went away
   - There was an additional warning at the end of exercise 06: "Skipped heading level".
     - However, since the teacher wanted H3 for the titles and not H2, I'm skipping this warning
+  - For exercise 07 there was no HTML file.
 
 #### Formatted Code Check
 
